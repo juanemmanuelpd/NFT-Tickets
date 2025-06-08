@@ -1,0 +1,11 @@
+{
+    "name": "Ticket 02",
+    "description": "Concert",
+    "image": "ipfs://bafybeiew4wwzowzztuvdvhowl7u7vzcwtoppv4iwnmr5ye3w6hrhzrs2om",
+    "attributes": [
+        {
+            "trait_type": "General",
+            "value": "2"
+        }
+    ]
+}

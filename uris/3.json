@@ -1,0 +1,11 @@
+{
+    "name": "Ticket 04",
+    "description": "Concert",
+    "image": "ipfs://bafybeicso7dv76i7y5q3ez7bbydrxc5qnepesttkexkp7f7rzbhgoykgfa",
+    "attributes": [
+        {
+            "trait_type": "VIP",
+            "value": "2"
+        }
+    ]
+}
